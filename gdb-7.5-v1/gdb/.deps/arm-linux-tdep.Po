@@ -1,0 +1,151 @@
+arm-linux-tdep.o: arm-linux-tdep.c defs.h config.h ../include/ansidecl.h \
+ common/gdb_locale.h gdb_wchar.h ../include/gdb/signals.h \
+ ../include/gdb/signals.def ../include/libiberty.h ../include/ansidecl.h \
+ ../include/hashtab.h ../bfd/bfd.h ../include/symcat.h common/ptid.h \
+ cleanups.h ui-file.h nm.h ../include/fopen-bin.h common/common-utils.h \
+ config.h gdbarch.h target.h symtab.h common/vec.h gdb_string.h \
+ build-gnulib/import/string.h common/gdb_assert.h gdb_vecs.h minsyms.h \
+ memattr.h common/gdb_signals.h value.h doublest.h \
+ ../include/floatformat.h frame.h unwind_stop_reasons.def gdbtypes.h \
+ expression.h std-operator.def ada-operator.def gdbcore.h exec.h \
+ progspace.h memrange.h regcache.h solib-svr4.h osabi.h regset.h \
+ trad-frame.h tramp-frame.h breakpoint.h ax.h common/ax.def command.h \
+ auxv.h arm-tdep.h arm-linux-tdep.h linux-tdep.h glibc-tdep.h \
+ arch-utils.h inferior.h gdbthread.h ui-out.h symfile.h cli/cli-utils.h \
+ stap-probe.h parser-defs.h user-regs.h gdb_string.h
+
+defs.h:
+
+config.h:
+
+../include/ansidecl.h:
+
+common/gdb_locale.h:
+
+gdb_wchar.h:
+
+../include/gdb/signals.h:
+
+../include/gdb/signals.def:
+
+../include/libiberty.h:
+
+../include/ansidecl.h:
+
+../include/hashtab.h:
+
+../bfd/bfd.h:
+
+../include/symcat.h:
+
+common/ptid.h:
+
+cleanups.h:
+
+ui-file.h:
+
+nm.h:
+
+../include/fopen-bin.h:
+
+common/common-utils.h:
+
+config.h:
+
+gdbarch.h:
+
+target.h:
+
+symtab.h:
+
+common/vec.h:
+
+gdb_string.h:
+
+build-gnulib/import/string.h:
+
+common/gdb_assert.h:
+
+gdb_vecs.h:
+
+minsyms.h:
+
+memattr.h:
+
+common/gdb_signals.h:
+
+value.h:
+
+doublest.h:
+
+../include/floatformat.h:
+
+frame.h:
+
+unwind_stop_reasons.def:
+
+gdbtypes.h:
+
+expression.h:
+
+std-operator.def:
+
+ada-operator.def:
+
+gdbcore.h:
+
+exec.h:
+
+progspace.h:
+
+memrange.h:
+
+regcache.h:
+
+solib-svr4.h:
+
+osabi.h:
+
+regset.h:
+
+trad-frame.h:
+
+tramp-frame.h:
+
+breakpoint.h:
+
+ax.h:
+
+common/ax.def:
+
+command.h:
+
+auxv.h:
+
+arm-tdep.h:
+
+arm-linux-tdep.h:
+
+linux-tdep.h:
+
+glibc-tdep.h:
+
+arch-utils.h:
+
+inferior.h:
+
+gdbthread.h:
+
+ui-out.h:
+
+symfile.h:
+
+cli/cli-utils.h:
+
+stap-probe.h:
+
+parser-defs.h:
+
+user-regs.h:
+
+gdb_string.h:

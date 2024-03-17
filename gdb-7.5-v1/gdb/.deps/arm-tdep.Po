@@ -1,0 +1,211 @@
+arm-tdep.o: arm-tdep.c defs.h config.h ../include/ansidecl.h \
+ common/gdb_locale.h gdb_wchar.h ../include/gdb/signals.h \
+ ../include/gdb/signals.def ../include/libiberty.h ../include/ansidecl.h \
+ ../include/hashtab.h ../bfd/bfd.h ../include/symcat.h common/ptid.h \
+ cleanups.h ui-file.h nm.h ../include/fopen-bin.h common/common-utils.h \
+ config.h gdbarch.h frame.h unwind_stop_reasons.def inferior.h \
+ breakpoint.h value.h doublest.h ../include/floatformat.h symtab.h \
+ common/vec.h gdb_string.h build-gnulib/import/string.h \
+ common/gdb_assert.h gdb_vecs.h minsyms.h gdbtypes.h expression.h \
+ std-operator.def ada-operator.def ax.h common/ax.def command.h target.h \
+ memattr.h common/gdb_signals.h progspace.h gdbcmd.h ui-out.h gdbcore.h \
+ exec.h memrange.h gdb_string.h ../include/dis-asm.h regcache.h \
+ reggroups.h arch-utils.h osabi.h frame-unwind.h frame-base.h \
+ trad-frame.h objfiles.h gdb_obstack.h ../include/obstack.h symfile.h \
+ dwarf2-frame.h prologue-value.h remote.h target-descriptions.h \
+ user-regs.h observer.h arm-tdep.h ../include/gdb/sim-arm.h \
+ ../bfd/elf-bfd.h ../include/elf/common.h ../include/elf/external.h \
+ ../include/elf/internal.h ../include/bfdlink.h \
+ ../include/coff/internal.h ../include/elf/arm.h \
+ ../include/elf/reloc-macros.h common/gdb_assert.h record.h \
+ features/arm-with-m.c defs.h osabi.h target-descriptions.h \
+ features/arm-with-m-fpa-layout.c features/arm-with-m-vfp-d16.c \
+ features/arm-with-iwmmxt.c features/arm-with-vfpv2.c \
+ features/arm-with-vfpv3.c features/arm-with-neon.c ../bfd/bfd-in2.h \
+ ../bfd/libcoff.h
+
+defs.h:
+
+config.h:
+
+../include/ansidecl.h:
+
+common/gdb_locale.h:
+
+gdb_wchar.h:
+
+../include/gdb/signals.h:
+
+../include/gdb/signals.def:
+
+../include/libiberty.h:
+
+../include/ansidecl.h:
+
+../include/hashtab.h:
+
+../bfd/bfd.h:
+
+../include/symcat.h:
+
+common/ptid.h:
+
+cleanups.h:
+
+ui-file.h:
+
+nm.h:
+
+../include/fopen-bin.h:
+
+common/common-utils.h:
+
+config.h:
+
+gdbarch.h:
+
+frame.h:
+
+unwind_stop_reasons.def:
+
+inferior.h:
+
+breakpoint.h:
+
+value.h:
+
+doublest.h:
+
+../include/floatformat.h:
+
+symtab.h:
+
+common/vec.h:
+
+gdb_string.h:
+
+build-gnulib/import/string.h:
+
+common/gdb_assert.h:
+
+gdb_vecs.h:
+
+minsyms.h:
+
+gdbtypes.h:
+
+expression.h:
+
+std-operator.def:
+
+ada-operator.def:
+
+ax.h:
+
+common/ax.def:
+
+command.h:
+
+target.h:
+
+memattr.h:
+
+common/gdb_signals.h:
+
+progspace.h:
+
+gdbcmd.h:
+
+ui-out.h:
+
+gdbcore.h:
+
+exec.h:
+
+memrange.h:
+
+gdb_string.h:
+
+../include/dis-asm.h:
+
+regcache.h:
+
+reggroups.h:
+
+arch-utils.h:
+
+osabi.h:
+
+frame-unwind.h:
+
+frame-base.h:
+
+trad-frame.h:
+
+objfiles.h:
+
+gdb_obstack.h:
+
+../include/obstack.h:
+
+symfile.h:
+
+dwarf2-frame.h:
+
+prologue-value.h:
+
+remote.h:
+
+target-descriptions.h:
+
+user-regs.h:
+
+observer.h:
+
+arm-tdep.h:
+
+../include/gdb/sim-arm.h:
+
+../bfd/elf-bfd.h:
+
+../include/elf/common.h:
+
+../include/elf/external.h:
+
+../include/elf/internal.h:
+
+../include/bfdlink.h:
+
+../include/coff/internal.h:
+
+../include/elf/arm.h:
+
+../include/elf/reloc-macros.h:
+
+common/gdb_assert.h:
+
+record.h:
+
+features/arm-with-m.c:
+
+defs.h:
+
+osabi.h:
+
+target-descriptions.h:
+
+features/arm-with-m-fpa-layout.c:
+
+features/arm-with-m-vfp-d16.c:
+
+features/arm-with-iwmmxt.c:
+
+features/arm-with-vfpv2.c:
+
+features/arm-with-vfpv3.c:
+
+features/arm-with-neon.c:
+
+../bfd/bfd-in2.h:
+
+../bfd/libcoff.h:
